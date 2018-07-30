@@ -10,6 +10,7 @@ namespace test_ci
     {
         static void Main(string[] args)
         {
+			
         }
     }
 }
